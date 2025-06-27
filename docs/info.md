@@ -15,4 +15,4 @@ Inputs to LED number display experiment
 dont use it. not good
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+yes
